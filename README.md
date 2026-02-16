@@ -8,5 +8,6 @@ A simple Python calculator built using Tkinter.
 - Built using Python and Tkinter GUI framework
 
 ## How to Run
-Run the file:
+Make sure Python is installed
+Run the file using:
 python tkinter_calculator.py
